@@ -1,1 +1,1 @@
-# virtual-library-selenium-ide-tests
+This repo contains Selenium IDE tests for "Virtual library" project.
